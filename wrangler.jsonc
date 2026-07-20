@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "highshinewindows",
+  "compatibility_date": "2026-07-20",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "high-shine-windows-contact-v4"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
